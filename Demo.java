@@ -7,6 +7,8 @@ class Demo {
 	 void m2() {
 		 
 	// Some logic
+
+		 System.out.println("testing");
 	 }
 
 }
