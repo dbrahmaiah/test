@@ -4,5 +4,9 @@ class Demo {
 		
 		System.out.println("First Java Program");
 	}
+	 void m2() {
+		 
+	// Some logic
+	 }
 
 }
